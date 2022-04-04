@@ -1,0 +1,178 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch ArrayPrint_matrix",
+            "request": "launch",
+            "mainClass": "Array.ArrayPrint_matrix",
+            "projectName": "Java_148c1cbd"
+        },
+        {
+            "type": "java",
+            "name": "Launch Fibonacic",
+            "request": "launch",
+            "mainClass": "Fibonacic",
+            "projectName": "Java_148c1cbd"
+        },
+        {
+            "type": "java",
+            "name": "Launch Array_modifyBy_function",
+            "request": "launch",
+            "mainClass": "Array.Array_modifyBy_function",
+            "projectName": "Java_148c1cbd"
+        },
+        {
+            "type": "java",
+            "name": "Launch Array_modify",
+            "request": "launch",
+            "mainClass": "Array_modify",
+            "projectName": "Java_148c1cbd"
+        },
+        {
+            "type": "java",
+            "name": "Launch Char",
+            "request": "launch",
+            "mainClass": "Char",
+            "projectName": "Java_148c1cbd"
+        },
+        {
+            "type": "java",
+            "name": "Launch string",
+            "request": "launch",
+            "mainClass": "Array.string",
+            "projectName": "Java_148c1cbd"
+        },
+        {
+            "type": "java",
+            "name": "Launch BasicArray",
+            "request": "launch",
+            "mainClass": "Array.BasicArray",
+            "projectName": "Java_148c1cbd"
+        },
+        {
+            "type": "java",
+            "name": "Launch Occurrence",
+            "request": "launch",
+            "mainClass": "Array.Occurrence",
+            "projectName": "Java_148c1cbd"
+        },
+        {
+            "type": "java",
+            "name": "Launch arr2",
+            "request": "launch",
+            "mainClass": "Array.arr2",
+            "projectName": "Java_148c1cbd"
+        },
+        {
+            "type": "java",
+            "name": "Launch sum_of_digits",
+            "request": "launch",
+            "mainClass": "sum_of_digits",
+            "projectName": "Java_148c1cbd"
+        },
+        {
+            "type": "java",
+            "name": "Launch Number_of_Day",
+            "request": "launch",
+            "mainClass": "Number_of_Day",
+            "projectName": "Java_148c1cbd"
+        },
+        {
+            "type": "java",
+            "name": "Launch convert_to_Cel",
+            "request": "launch",
+            "mainClass": "convert_to_Cel",
+            "projectName": "Java_148c1cbd"
+        },
+        {
+            "type": "java",
+            "name": "Launch angle_triangle",
+            "request": "launch",
+            "mainClass": "angle_triangle",
+            "projectName": "Java_148c1cbd"
+        },
+        {
+            "type": "java",
+            "name": "Launch big_light",
+            "request": "launch",
+            "mainClass": "big_light",
+            "projectName": "Java_148c1cbd"
+        },
+        {
+            "type": "java",
+            "name": "Launch LeapYear",
+            "request": "launch",
+            "mainClass": "LeapYear",
+            "projectName": "Java_148c1cbd"
+        },
+        {
+            "type": "java",
+            "name": "Launch Convert_To_F",
+            "request": "launch",
+            "mainClass": "Convert_To_F",
+            "projectName": "Java_148c1cbd"
+        },
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch arr1",
+            "request": "launch",
+            "mainClass": "Array.arr1",
+            "projectName": "Java_148c1cbd"
+        },
+        {
+            "type": "java",
+            "name": "Launch Avg_of_threeNo",
+            "request": "launch",
+            "mainClass": "Avg_of_threeNo",
+            "projectName": "Java_148c1cbd"
+        },
+        {
+            "type": "java",
+            "name": "Launch Factorial",
+            "request": "launch",
+            "mainClass": "Factorial",
+            "projectName": "Java_148c1cbd"
+        },
+        {
+            "type": "java",
+            "name": "Launch GreaterNo",
+            "request": "launch",
+            "mainClass": "GreaterNo",
+            "projectName": "Java_148c1cbd"
+        },
+        {
+            "type": "java",
+            "name": "Launch InsertionSort",
+            "request": "launch",
+            "mainClass": "InsertionSort",
+            "projectName": "Java_148c1cbd"
+        },
+        {
+            "type": "java",
+            "name": "Launch Prime_Or_Not",
+            "request": "launch",
+            "mainClass": "Prime_Or_Not",
+            "projectName": "Java_148c1cbd"
+        },
+        {
+            "type": "java",
+            "name": "Launch SqrNatural",
+            "request": "launch",
+            "mainClass": "SqrNatural",
+            "projectName": "Java_148c1cbd"
+        },
+        {
+            "type": "java",
+            "name": "Launch SumOf_N_Odd",
+            "request": "launch",
+            "mainClass": "SumOf_N_Odd",
+            "projectName": "Java_148c1cbd"
+        }
+    ]
+}

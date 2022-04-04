@@ -1,0 +1,77 @@
+{
+    "folders": [
+        {
+            "path": "."
+        }
+    ],
+    "settings": {
+        "java.debug.settings.onBuildFailureProceed": true
+    },
+    "launch": {
+        "version": "0.2.0",
+        "configurations": [
+            {
+                "type": "java",
+                "name": "Launch Current File",
+                "request": "launch",
+                "mainClass": "${file}"
+            },
+            {
+                "type": "java",
+                "name": "Launch arr1",
+                "request": "launch",
+                "mainClass": "Array.arr1",
+                "projectName": "Java_148c1cbd"
+            },
+            {
+                "type": "java",
+                "name": "Launch Avg_of_threeNo",
+                "request": "launch",
+                "mainClass": "Avg_of_threeNo",
+                "projectName": "Java_148c1cbd"
+            },
+            {
+                "type": "java",
+                "name": "Launch Factorial",
+                "request": "launch",
+                "mainClass": "Factorial",
+                "projectName": "Java_148c1cbd"
+            },
+            {
+                "type": "java",
+                "name": "Launch GreaterNo",
+                "request": "launch",
+                "mainClass": "GreaterNo",
+                "projectName": "Java_148c1cbd"
+            },
+            {
+                "type": "java",
+                "name": "Launch InsertionSort",
+                "request": "launch",
+                "mainClass": "InsertionSort",
+                "projectName": "Java_148c1cbd"
+            },
+            {
+                "type": "java",
+                "name": "Launch Prime_Or_Not",
+                "request": "launch",
+                "mainClass": "Prime_Or_Not",
+                "projectName": "Java_148c1cbd"
+            },
+            {
+                "type": "java",
+                "name": "Launch SqrNatural",
+                "request": "launch",
+                "mainClass": "SqrNatural",
+                "projectName": "Java_148c1cbd"
+            },
+            {
+                "type": "java",
+                "name": "Launch SumOf_N_Odd",
+                "request": "launch",
+                "mainClass": "SumOf_N_Odd",
+                "projectName": "Java_148c1cbd"
+            }
+        ]
+    }
+}
